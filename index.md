@@ -5,9 +5,9 @@ Email: hossain.muhaiminul@gmail.com
 VP, Product| iFarmer
 JANUARYY 2024 – CURRENT
  
+--- 
 Head of Product Management| iFarmer
 JULY 2021 – DECEMBER 2023
-
 
 Leading the Product Team which manages Products such as
 
@@ -24,20 +24,7 @@ i-Core: A central platform to manage iFarmer’s internal operations where all t
 ·   	Managing Partnerships with multiple stakeholders including Google Startup for Advisors, Rippleworks for developing Credit Score for farmers, Dvara E-registry for Satelite-based Credit Score in Agriculture, etc.
 
 Introduced a new feature for the iFarmer Output team working in the Agricultural Supply Chain business to digitally automate Product Acquisition, Wearhouse Management, Deliver Tracking to wet market
+
 Established the Product and Design Team for iFarmer
+---
  
-
-Product Manager | iFarmer
-JULY 2020 – JUNE 2021
-
-Launched SOFOL, a field agent app to manage the services of Farmer Onboarding, Financing, and Agri-Advisory services to the farmers which now has 75000 NID verified farmers along with 4000 agri-projects financed through this platform. Sofol is currently used by around 150 field agents in 19 districts.
-
-Launched “Kri-Shop”, a platform for Agri input retailers where the retailers can order Agri-inputs from the e-commerce shop along with keeping their business transactions inside the app.
-
-Developed “i-Core”, a core admin panel to connect iFarmer’s all the products for the internal stakeholders to ensure the daily operations are being recorded and automated for transparency and accountability. “i-Core” is being used to manage the retail investor orders, farmer financing & asset tracking, Agri Input Retailers order processing & warehouse management, financial documentation & reporting.
-
-Launched “iFarmer” app 2.0, a platform for retail investors to invest in Agriculture with introducing Revamped UX and new features such as Investors Dashboard, Feedback, Reinvestment, Digital Payment, etc.
-
-Launched PILOT for exploring the opportunities of BLOCKCHAIN in Agriculture in collaboration with InfoCorp Singapur
-
-Introduced the practice of “OKR” to iFarmer’s organizational strategy planning
